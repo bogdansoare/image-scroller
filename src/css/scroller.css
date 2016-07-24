@@ -1,0 +1,81 @@
+.scroller {
+  overflow: hidden;
+}
+
+.scroller__content {
+  height: 100vh;
+  width: 1500%;
+  overflow: hidden;
+}
+
+.scroller__col {
+  float: left;
+  height: 100%;
+  width: 180px;
+  margin-right: 20px;
+
+  @media (--medium-viewport) {
+    width: 240px;
+  }
+
+  /*&:nth-child(even) {
+    transform: translatey(-40px)
+  }*/
+}
+
+.scroller__img {
+  width: 100%;
+  padding-bottom: 177.5%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom: 20px;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.15);
+}
+
+.scroller__img--1 {
+  background-image: url("/images/Bedtime.png");
+}
+
+.scroller__img--2 {
+  background-image: url("/images/Contact.png");
+}
+
+.scroller__img--3 {
+  background-image: url("/images/HomeApp.png");
+}
+
+.scroller__img--4 {
+  background-image: url("/images/LockScreenPopover.png");
+}
+
+.scroller__img--5 {
+  background-image: url("/images/MusicForYou.png");
+}
+
+.scroller__img--6 {
+  background-image: url("/images/MapsSatelite.png");
+}
+
+.scroller__img--7 {
+  background-image: url("/images/Siri.png");
+}
+
+.scroller__img--8 {
+  background-image: url("/images/PersonalTouch.png");
+}
+
+.scroller__img--9 {
+  background-image: url("/images/iMessageChat.png");
+}
+
+.scroller__img--10 {
+  background-image: url("/images/Memory.png");
+}
+
+.scroller__img--11 {
+  background-image: url("/images/MapsPlace.png");
+}
+
+.scroller__img--12 {
+  background-image: url("/images/LockScreenWidgets.png");
+}

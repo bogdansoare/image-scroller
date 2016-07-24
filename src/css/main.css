@@ -1,0 +1,16 @@
+@import 'sanitize.css';
+@import 'base.css';
+@import 'scroller.css';
+@import 'utilities.css';
+
+:root {
+--fontSize: 100%;
+--fontFamily: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+--textColor: #333;
+--dustyGrayColor: #999;
+--emeraldColor: #4DD964;
+--mercuryColor: #e5e5e5;
+--azureRadianceColor: #007AFF;
+}
+
+@custom-media --medium-viewport (min-width: 44em);
