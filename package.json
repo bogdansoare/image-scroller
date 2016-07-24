@@ -1,5 +1,5 @@
 {
-  "name": "adobe-homework",
+  "name": "image-scroller",
   "version": "1.0.0",
   "scripts": {
     "clean": "rimraf ./dist && mkdirp dist",
@@ -46,14 +46,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bogdansoare/adobe-homework.git"
+    "url": "git+https://github.com/bogdansoare/image-scroller.git"
   },
   "author": "Soare Bogdan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bogdansoare/adobe-homework/issues"
+    "url": "https://github.com/bogdansoare/image-scroller/issues"
   },
-  "homepage": "https://github.com/bogdansoare/adobe-homework#readme",
+  "homepage": "https://github.com/bogdansoare/image-scroller#readme",
   "babel": {
     "presets": [
       "es2015",
