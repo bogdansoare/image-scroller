@@ -33,49 +33,49 @@
 }
 
 .scroller__img--1 {
-  background-image: url("/images/Bedtime.png");
+  background-image: url("images/Bedtime.png");
 }
 
 .scroller__img--2 {
-  background-image: url("/images/Contact.png");
+  background-image: url("images/Contact.png");
 }
 
 .scroller__img--3 {
-  background-image: url("/images/HomeApp.png");
+  background-image: url("images/HomeApp.png");
 }
 
 .scroller__img--4 {
-  background-image: url("/images/LockScreenPopover.png");
+  background-image: url("images/LockScreenPopover.png");
 }
 
 .scroller__img--5 {
-  background-image: url("/images/MusicForYou.png");
+  background-image: url("images/MusicForYou.png");
 }
 
 .scroller__img--6 {
-  background-image: url("/images/MapsSatelite.png");
+  background-image: url("images/MapsSatelite.png");
 }
 
 .scroller__img--7 {
-  background-image: url("/images/Siri.png");
+  background-image: url("images/Siri.png");
 }
 
 .scroller__img--8 {
-  background-image: url("/images/PersonalTouch.png");
+  background-image: url("images/PersonalTouch.png");
 }
 
 .scroller__img--9 {
-  background-image: url("/images/iMessageChat.png");
+  background-image: url("images/iMessageChat.png");
 }
 
 .scroller__img--10 {
-  background-image: url("/images/Memory.png");
+  background-image: url("images/Memory.png");
 }
 
 .scroller__img--11 {
-  background-image: url("/images/MapsPlace.png");
+  background-image: url("images/MapsPlace.png");
 }
 
 .scroller__img--12 {
-  background-image: url("/images/LockScreenWidgets.png");
+  background-image: url("images/LockScreenWidgets.png");
 }
