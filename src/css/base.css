@@ -1,8 +1,0 @@
-html {
-  font-size: var(--fontSize);
-  font-family: var(--fontFamily);
-}
-
-body {
-  color: var(--textColor);
-}
